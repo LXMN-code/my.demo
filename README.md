@@ -1,2 +1,2 @@
-# my.demo
+# LXMN.demo
 this is my first repo
